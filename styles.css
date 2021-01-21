@@ -1,0 +1,159 @@
+.top
+{
+    background-color: rgb(82, 72, 72);
+    height: 300px;
+    width:80%;
+}
+.whitebar{
+    background-color: rgb(255, 220, 220);
+    height:50px;
+    width:79.5%;
+    position: absolute;
+    top: 200px;
+
+}
+.image
+{
+    position: absolute;
+    top:50px;
+    size: 170px;
+    left:700px;
+}
+.smallbar
+{
+    background-color: chartreuse;
+    position:absolute;
+    width:500px;
+    height:85px;
+    border-radius: 25px;
+    top: 180px;
+    left: 520px;
+}
+.smallbartext{
+    font-size: large;
+    font-size: 45px;
+    position: absolute;
+    top: 198px;
+    left: 650px;
+}
+.adress{
+color: ;
+}
+.one{
+    position:absolute;
+    top:400px;
+    left:250px;
+}
+.two
+{
+    position:absolute;
+    left:850px;
+    top:400px;
+}
+.vl {
+    position:absolute;
+    border-left: 3px solid cadetblue;
+    height: 850px;
+    left:750px
+  }
+  .profile{
+    font-family: 'Assistant', sans-serif;
+    font-size:xx-large;
+    font-weight: 200;
+    position:absolute;
+    top:5px;
+    left:80px;
+  }
+  .skills-head
+  {
+    font-family: 'Assistant', sans-serif;
+    font-size:xx-large;
+    font-weight: 200;
+    position:absolute;
+    top:135px;
+    left:80px;
+  }
+  .skills-img
+  {
+      position:absolute;
+      top:450px
+      left:50px;
+  }
+.skills-content
+{
+    position:absolute;
+    top:230px;
+    left:10px
+}
+.Technical-skills
+{
+    position:absolute;
+    top:200px;
+    left:30px;
+}
+
+.additional-skills
+{
+position: absolute;
+top:400px;
+left:10px;
+}
+.aditional
+{
+   position:absolute;
+   top:380px;
+   left:30px; 
+}
+.experinence-profile
+{
+    position:absolute;
+    top:900px;
+    left:245px;
+
+}
+.experience-head
+{
+    font-family: 'Assistant', sans-serif;
+    font-size:xx-large;
+    font-weight: 200;
+    position:absolute;
+    top:900px;
+    left:320px;
+}
+.experience-content
+{
+    position:absolute;
+    top:980px;
+    left:250px;
+}
+.experience-two
+{
+    font-family: 'Assistant', sans-serif;
+    font-size:xx-large;
+    font-weight: 200;
+    position:absolute;
+    top:5px;
+    left:100px;
+    
+}
+.education-head
+{
+    font-family: 'Assistant', sans-serif;
+    font-size:xx-large;
+    font-weight: 200;
+    position:absolute;
+    top: 730px;
+    left: 931px;
+}
+.education-profile
+{
+    position: absolute;
+    top: 725px;
+    left: 850px;
+}
+.education-content
+{
+    position:absolute;
+    top:800px;
+    left:850px;
+}
